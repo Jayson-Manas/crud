@@ -1,0 +1,38 @@
+
+{
+    "superheroes": [
+        {
+            "id": 1,
+            "name": "wolverine"
+        },
+
+        {
+            "id": 2,
+            "name": "cybertooth"
+        },
+
+        {
+            "id": 2,
+            "name": "juggernaut"
+        }
+    ],
+
+    "sidekicks": [
+        {
+            "id": 1,
+            "name": "wolverine"
+        },
+
+        {
+            "id": 2,
+            "name": "cybertooth"
+        },
+
+        {
+            "id": 2,
+            "name": "juggernaut"
+        }
+    ]
+    
+}
+

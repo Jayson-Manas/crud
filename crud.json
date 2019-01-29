@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+    "name": "typicode"
+  }
+],
+
+  "superheroes": [
+      {
+          "id": 1,
+          "name": "wolverine"
+      },
+
+      {
+          "id": 2,
+          "name": "cybertooth"
+      },
+
+      {
+          "id": 2,
+          "name": "juggernaut"
+      }
+  ],
+
+  "sidekicks": [
+      {
+          "id": 1,
+          "name": "robin"
+      },
+
+      {
+          "id": 2,
+          "name": "batgirl"
+      },
+
+      {
+          "id": 2,
+          "name": "aquagirl"
+      }
+  ]
+  
+}
